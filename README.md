@@ -6,17 +6,6 @@ This system analyzes customer data across multiple dimensions—demographics, us
 
 
 
-Prerequisites
-
-Python 3.8 or higher
-pip package manager
-
-Installation
-
-Clone the repository
-
-bashgit clone https://github.com/yourusername/customer-churn-prediction.git
-cd customer-churn-prediction
 
 Create a virtual environment (recommended)
 
