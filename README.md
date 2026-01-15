@@ -4,18 +4,6 @@
 
 
 
-bashstreamlit run app.py
-The app will open in your browser at http://localhost:8501
-📊 Dataset Features
-The model uses the following customer attributes:
-Demographics
-
-Age, Gender, Location
-Account tenure
-
-Usage Patterns
-
-Monthly usage hours
 Login frequency
 Feature utilization
 
