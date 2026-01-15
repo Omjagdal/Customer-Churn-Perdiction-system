@@ -5,19 +5,7 @@ This system analyzes customer data across multiple dimensions—demographics, us
 ✨ Key Features
 
 
-🏗️ Architecture
-customer-churn-prediction/
-├── app.py                  # Streamlit web application
-├── model.pkl              # Trained ML model
-├── preprocessor.pkl       # Preprocessing pipeline
-├── train_model.py         # Model training script
-├── requirements.txt       # Python dependenci
-├── data/
-│   ├── train_data.csv    # Training dataset
-│   └── sample_input.csv  # Sample prediction input
-└── notebooks/
-    └── EDA.ipynb         # Exploratory Data Analysis
-🚀 Getting Started
+
 Prerequisites
 
 Python 3.8 or higher
