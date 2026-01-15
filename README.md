@@ -3,20 +3,6 @@
 
 
 
-Create a virtual environment (recommended)
-
-bashpython -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-Install dependencies
-
-bashpip install -r requirements.txt
-
-Train the model (if not pre-trained)
-
-bashpython train_model.py
-
-Run the application
 
 bashstreamlit run app.py
 The app will open in your browser at http://localhost:8501
