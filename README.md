@@ -98,20 +98,7 @@ data = {
     # ... other features
 }
 
-response = requests.post(url, json=data)
-prediction = response.json()
-print(f"Churn Probability: {prediction['probability']}")
-📈 Model Training
-To retrain the model with new data:
-bashpython train_model.py --data data/new_training_data.csv --output model.pkl
-Training parameters can be customized in train_model.py:
 
-Train-test split ratio
-Hyperparameters (n_estimators, max_depth, etc.)
-Cross-validation folds
-Feature selection methods
-
-🛠️ Tech Stack
 
 ML Framework: Scikit-Learn
 Web Framework: Streamlit
