@@ -1,8 +1,4 @@
-📊 Customer Churn Prediction System
-A comprehensive Machine Learning-powered web application that predicts customer churn probability using advanced ML algorithms and an intuitive web interface.
-🎯 Overview
-This system analyzes customer data across multiple dimensions—demographics, usage patterns, subscription details, service history, and engagement metrics—to predict the likelihood of customer churn. Built with Scikit-Learn and Streamlit, it provides real-time predictions with probability scores to help businesses proactively retain customers.
-✨ Key Features
+
 
 
 
