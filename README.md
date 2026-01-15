@@ -18,7 +18,7 @@ customer-churn-prediction/
 ├── model.pkl              # Trained ML model
 ├── preprocessor.pkl       # Preprocessing pipeline
 ├── train_model.py         # Model training script
-├── requirements.txt       # Python dependencies
+├── requirements.txt       # Python dependenci
 ├── data/
 │   ├── train_data.csv    # Training dataset
 │   └── sample_input.csv  # Sample prediction input
