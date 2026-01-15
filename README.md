@@ -4,13 +4,6 @@ A comprehensive Machine Learning-powered web application that predicts customer 
 This system analyzes customer data across multiple dimensions—demographics, usage patterns, subscription details, service history, and engagement metrics—to predict the likelihood of customer churn. Built with Scikit-Learn and Streamlit, it provides real-time predictions with probability scores to help businesses proactively retain customers.
 ✨ Key Features
 
-🔮 ML-Powered Predictions - Random Forest/Gradient Boosting model trained on historical customer data
-🖥️ Interactive Web Interface - User-friendly Streamlit dashboard for real-time predictions
-⚙️ Robust Preprocessing Pipeline - Automated data encoding, scaling, and imputation
-📈 Probability-Based Insights - Get churn probability scores, not just binary predictions
-🎨 Visual Analytics - Feature importance charts and prediction confidence indicators
-🔄 End-to-End Integration - Seamless frontend-backend architecture
-📁 Batch Processing Support - Predict churn for multiple customers via CSV upload
 
 🏗️ Architecture
 customer-churn-prediction/
