@@ -288,7 +288,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 
 ---
-
-⭐ If you find this project useful, please consider giving it a star!
-
-**Made with ❤️ by [Your Name]**
