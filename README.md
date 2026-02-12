@@ -20,7 +20,7 @@ A machine learning-powered web application for predicting customer churn with hi
 - [Contributing](#contributing)
 - [License](#license)
 
-## ✨ Features
+# ✨ Features
 
 ### Customer Analytics
 - **Demographic Analysis**: Age, location, and customer profile insights
