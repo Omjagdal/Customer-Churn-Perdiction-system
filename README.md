@@ -93,7 +93,7 @@ streamlit run app.py
 
 The application will open in your default browser at `http://localhost:8501`
 
-### Docker Deployment (Optional)
+### Docker Deployment
 ```bash
 docker build -t churn-prediction .
 docker run -p 8501:8501 churn-prediction
