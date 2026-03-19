@@ -18,7 +18,6 @@ A machine learning-powered web application for predicting customer churn with hi
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 # ✨ Features
 
