@@ -3,7 +3,6 @@
 A machine learning-powered web application for predicting customer churn with high accuracy. Built with Streamlit and Scikit-Learn, this system helps businesses identify at-risk customers and take proactive retention measures.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)](https://scikit-learn.org/)
 
 ## 📋 Table of Contents
