@@ -263,7 +263,6 @@ joblib>=1.3.0
 ## 🎯 Future Enhancements
 
 - [ ] Real-time data pipeline integration
-- [ ] A/B testing framework for retention strategies
 - [ ] Advanced feature engineering with deep learning
 - [ ] Customer segmentation clustering
 - [ ] Automated model retraining pipeline
